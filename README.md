@@ -16,3 +16,5 @@ The Curriculum is available under the [CC-BY 4.0+ License](https://creativecommo
 
 ## From My Research
 [7.5 tips to help you ace the Certified Kubernetes Administrator (CKA) exam](https://kubedex.com/7-5-tips-to-help-you-ace-the-certified-kubernetes-administrator-cka-exam/)
+
+[7 Free Kubernetes Online Courses to Learn DevOps in 2021](https://medium.com/javarevisited/7-free-online-courses-to-learn-kubernetes-in-2020-3b8a68ec7abc)
