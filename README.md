@@ -13,3 +13,6 @@ If you see any errors with the document, please open an [issue](https://github.c
 CNCF encourages training companies to align their offerings to cover the contents of the curriculum. Training [partners](https://www.cncf.io/certification/training/) can purchase coupons for the CKA exam at a wholesale price to offer at the end of their training.
 
 The Curriculum is available under the [CC-BY 4.0+ License](https://creativecommons.org/licenses/by/4.0/).
+
+## From My Research
+[7.5 tips to help you ace the Certified Kubernetes Administrator (CKA) exam](https://kubedex.com/7-5-tips-to-help-you-ace-the-certified-kubernetes-administrator-cka-exam/)
